@@ -1,0 +1,11 @@
+broker_id,name,region,commission_rate
+B001,Alice Sharma,North,0.015
+B002,Bob Chen,West,0.02
+B003,Carlos Ruiz,South,0.018
+B004,Diana Patel,East,0.022
+B005,Ethan Müller,North,0.017
+B006,Fatima Al-Sayed,West,0.019
+B007,George Kim,South,0.021
+B008,Hannah Osei,East,0.016
+B009,Ivan Novak,North,0.023
+B010,Julia Tanaka,West,0.02
